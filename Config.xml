@@ -9,7 +9,8 @@
     <Prefix value="!lol"/>
     <!--<Link val ue="https://discordapp.com/oauth2/authorize?client_id=357209347497000960&scope=bot"/>-->
     <ClientID value="357209347497000960"/>
-    
+    <BotAuthor value="Frederikja163#5990"/>   
+
     <LeagueDB value="LeagueBot.db"/>
     <UserCol value="Players"/>
   </ConfigString>
