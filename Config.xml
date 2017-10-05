@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <root>
   <ConfigInt>
   
@@ -13,5 +13,6 @@
 
     <LeagueDB value="LeagueBot.db"/>
     <UserCol value="Players"/>
+    <TeamCol value="Teams"/>
   </ConfigString>
 </root>
